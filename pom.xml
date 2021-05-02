@@ -152,5 +152,8 @@
         <samples.version>0.0.2-SNAPSHOT</samples.version>
         <jcommander.version>1.72</jcommander.version>
         <hdrhistogram.version>2.1.11</hdrhistogram.version>
+		<sonar.projectKey>trainatnebuladev1_javademo</sonar.projectKey>
+		<sonar.organization>trainatnebuladev1</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 </project>
